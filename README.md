@@ -5,7 +5,7 @@ Study material for the module EE4C16 Machine Learning, in Trinity College Dublin
 
 ## Notes
 Below is a list (work in progress) of the notes for each topic in the EE4C16 module:
-* [Module Overview](https://github.com/nating/EE4C16/module-overview.md)
+* [Module Overview](https://github.com/nating/EE4C16/blob/master/module-overview.md)
 * Least squares
 * Logistic Regression
 * Classic Classifiers
