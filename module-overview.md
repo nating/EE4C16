@@ -31,7 +31,7 @@ The 4C16 module is split up into two parts:
 
 #### 1. Least Squares
 
-Least Squares is ... <TODO>
+<TODO Least Squares is ...>
 
 The section on Least squares covers:
 * Feature Mapping
@@ -41,7 +41,7 @@ The section on Least squares covers:
 
 #### 2. Logistic Regression
 
-Logistic Regression is... <TODO>
+<TODO Logistic Regression is... >
 
 The section on Logistic Regression covers:
 * Linear Classifiers
@@ -50,7 +50,7 @@ The section on Logistic Regression covers:
 
 #### 3. Classic Classifiers
 
-Classic Classifiers are... <TODO>
+<TODO Classic Classifiers are... >
 
 The section on Classic Classifiers covers:
 * SVM
@@ -60,7 +60,7 @@ The section on Classic Classifiers covers:
 
 #### 4. Comparing Classifiers
 
-Comparing Classifiers is... <TODO>
+<TODO Comparing Classifiers is... >
 
 The section on Comparing Classifiers covers:
 * ROC Curves
@@ -71,7 +71,7 @@ The section on Comparing Classifiers covers:
 
 #### 5. Feedforward Neural Networks
 
-Feedforward Neural Networks are... <TODO>
+<TODO Feedforward Neural Networks are... >
 
 The section on Feedforward Neural Networks covers:
 * Network Architecture
@@ -81,7 +81,7 @@ The section on Feedforward Neural Networks covers:
 
 #### 6. Convolutional Neural Networks
 
-Convolutional Neural Networks are... <TODO>
+<TODO Convolutional Neural Networks are... >
 
 The section on Convolutional Neural Networks covers:
 * Convolutional Layers
@@ -91,7 +91,7 @@ The section on Convolutional Neural Networks covers:
 
 #### 7. Autoencoders
 
-Autoencoders are... <TODO>
+<TODO Autoencoders are... >
 
 The section on Autoencoders covers:
 * Unsupervised Learning
@@ -100,7 +100,7 @@ The section on Autoencoders covers:
 
 #### 8. Recurrent Neural Networks
 
-Recurrent Neural Networks are... <TODO>
+<TODO Recurrent Neural Networks are... >
 
 The section on Recurrent Neural Networks covers:
 * LSTM
