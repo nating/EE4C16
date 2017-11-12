@@ -12,7 +12,7 @@ Machine Learning is part of the field of artificial intelligence.
 
 Deep Learning or *Artificial Neural Networks* is particular type of Machine Learning.
 
-<TODO What is Deep Learning?>
+<TODO What is Deep Learning? >
 
 Machine Learning is split up into three main fields:
 
@@ -24,6 +24,8 @@ Neural Networks are the only machine learning technique whose performance scales
 
 ## Module Content
 
+In the 2017/18 academic year, there are no previous exam papers so there the tutorials are examples of the type of exam questions that students can expect.
+
 The 4C16 module is split up into two parts:  
 **Machine Learning Fundamentals** & **Neural Network Fundamentals**.
 
@@ -31,7 +33,7 @@ The 4C16 module is split up into two parts:
 
 #### 1. Least Squares
 
-<TODO Least Squares is ...>
+<TODO Least Squares is ... >
 
 The section on Least squares covers:
 * Feature Mapping
