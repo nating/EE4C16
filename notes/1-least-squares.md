@@ -24,7 +24,7 @@ In practice, you have *n* observations for which you have extracted *p* features
 The model is a linear combination of all the features plus a constant term which can be called *the bias* (w<sub>0</sub>). Each *w* represents a *model parameter*. f(x<sub>1</sub>,x<sub>2</sub>,...,x<sub>p</sub>) = w<sub>1</sub>x<sub>1</sub> + w<sub>2</sub>x<sub>2</sub> +...+ w<sub>p</sub>x<sub>p</sub> + w<sub>0</sub>
 
 
-The model can not explain everything, so an error term, *𝜀*, is introduced:
+The model can not explain everything, so an error term, *𝜀*, is introduced:  
 y<sub>1</sub> = w<sub>0</sub>+w<sub>1</sub>x<sub>11</sub>+w<sub>2</sub>x<sub>12</sub>+w<sub>3</sub>x<sub>13</sub>+...+w<sub>p</sub>x<sub>1p</sub>+*𝜀*<sub>1</sub>  
 y<sub>2</sub> = w<sub>0</sub>+w<sub>1</sub>x<sub>21</sub>+w<sub>2</sub>x<sub>22</sub>+w<sub>3</sub>x<sub>23</sub>+...+w<sub>p</sub>x<sub>2p</sub>+*𝜀*<sub>2</sub>  
 y<sub>3</sub> = w<sub>0</sub>+w<sub>1</sub>x<sub>31</sub>+w<sub>2</sub>x<sub>32</sub>+w<sub>3</sub>x<sub>33</sub>+...+w<sub>p</sub>x<sub>3p</sub>+*𝜀*<sub>3</sub>  
@@ -34,7 +34,8 @@ y<sub>p</sub> = w<sub>0</sub>+w<sub>1</sub>x<sub>p1</sub>+w<sub>2</sub>x<sub>p2<
 The error is a vector, but the error terms are combined to a single value called the **Loss Function** (or *Error function / Objective function*).
 
 To calculate the Loss Function in Linear Regression, the **Mean Squared Error** (MSE) (The average of [predicted outcome - actual outcome]<sup>2</sup> over all observations) is used:  
-![Mean Squared Error algorithm]() < TODO put image in here >
+
+<img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/mean-squared-error-algorithm.png" width="500"/>
 
 The ideal model has the minimum error, so differentiation is used to calculate the parameters that give the lowest error.
 
