@@ -8,7 +8,7 @@
 
 **Support Vector Machines** (SVMs) is a classic machine learning technique that is like logistic regression, except that instead of the loss function being based on cross entropy, it is based on the *Hinge Loss* function.
 
-A vague explanation of SVM is that it seeks to find the hyperplane that maximises the separation between two classes.
+A vague explanation of SVM is that it seeks to find the hyperplane that maximises the separation between two classes.  
 <img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/svm-example.png" width="400"/>
 
 The **Kernel Trick** is a solution for introducing functions to transform features into so that they are optimal for linearly separating the classes without having to compute the functions.
