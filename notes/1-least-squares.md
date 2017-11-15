@@ -56,9 +56,11 @@ The **Design Matrix** is the matrix of all the observations. Each column contain
 
 < TODO Define the normal equation >
 
-**Underfitting** is when a model is too simple. It occurs when the MSE is too high, there are not enough features or the model is too regularised.
+**Underfitting** is when a model is too simple. It occurs when the MSE is too high, there are not enough features or the model is too regularised:  
+<img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/underfitting-example.png" width="400">
 
-**Overfitting** is when a model corresponds too closely to a particular set of data. In this case, the model is too complex. A symptom of overfitting is a very low MSE, and you will see there is an error in the model when adding data far from the points in the training set.
+**Overfitting** is when a model corresponds too closely to a particular set of data. In this case, the model is too complex. A symptom of overfitting is a very low MSE, and you will see there is an error in the model when adding data far from the points in the training set:  
+<img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/overfitting-example.png" width="400">
 
 The first course of action to combat overfitting is to add more data to the training set. Another way to combat overfitting is *regularisation*.
 
@@ -66,8 +68,11 @@ The first course of action to combat overfitting is to add more data to the trai
 
 Regularisation biases the estimation, so it is avoided in practice. The more data you have, the less likely it is you will have to use regularisation.
 
-< TODO Write more about regularisation >
+**Tikhonov Regularisation** is a natural regularisation technique that minimises a modified expression from the MSE:  
+<img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/tikhonov-expression.png" width="500">
 
-< TODO Put in a description of the maximum likelihood. >
+The **Maximum Likelihood** estimate of *w*, is the value of *w* that maximises the likelihood of *y* given *X* and *w*. i.e. It is the value of *w* that maximises the likelihood *p(y|X,w)*.
+
+If the error is assumed to be Gaussian, then the Least Square Estimate is the Maximum Likelihood.
 
 A **Singular Matrix** is a matrix that doesn't have an inverse.
