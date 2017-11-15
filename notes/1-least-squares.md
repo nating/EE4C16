@@ -64,7 +64,7 @@ The **Design Matrix** is the matrix of all the observations. Each column contain
 
 The first course of action to combat overfitting is to add more data to the training set. Another way to combat overfitting is *regularisation*.
 
-**Regularisation** is a technique to be applied when creating a model to favour weights closer to zero.
+[**Regularisation**](https://www.quora.com/What-is-regularization-in-machine-learning) is a technique to be applied when creating a model to favour weights closer to zero.
 
 Regularisation biases the estimation, so it is avoided in practice. The more data you have, the less likely it is you will have to use regularisation.
 
