@@ -9,7 +9,7 @@ Below is a list (work in progress) of the notes for each topic in the EE4C16 mod
 * [Least squares](https://github.com/nating/EE4C16/blob/master/notes/1-least-squares.md)
 * [Logistic Regression](https://github.com/nating/EE4C16/blob/master/notes/2-logistic-regression.md)
 * [Classic Classifiers](https://github.com/nating/EE4C16/blob/master/notes/3-classic-classifiers.md)
-* Evaluating Classifier Performance
+* [Evaluating Classifier Performance](https://github.com/nating/EE4C16/blob/master/notes/4-evaluating-classifier-performance.md)
 * Feedforward Networks
 * Convolutional Neural Networks
 * Autoencoders
