@@ -15,3 +15,7 @@ Below is a list (work in progress) of the notes I have put together for each top
 * [Convolutional Neural Networks](https://github.com/nating/EE4C16/blob/master/notes/6-convolutional-neural-networks.md)
 * Autoencoders
 * Recurrent Neural Networks
+
+# Labs
+Here are useful resources for the EE4C16 labs:
+* [Lab 06 environment set up for Mac](https://github.com/nating/EE4C16/blob/master/labs/6/macos-setup.md)
