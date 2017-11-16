@@ -20,7 +20,9 @@ The most frequently used activation functions are **ReLu**, **sigmoid** & **tanh
 <img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/sigmoid.png" width="200"/>
 <img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/tanh.png" width="200"/>
 
-A **Feedforward Neural Network** is a neural network where every neuron in the previous layer is an input to every neuron in the next layer.
+A **Dense Layer** is a layer where every neuron in the layer is an input to every neuron in the next layer.
+
+A **Feedforward Neural Network** is a neural network where connections between units do not form a cycle.
 
 A **Hidden** unit is a node that is not an input or output node.
 
