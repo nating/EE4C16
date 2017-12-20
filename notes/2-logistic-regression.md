@@ -8,9 +8,9 @@ Logistic Regression does more than linear regression, as it considers the case w
 
 < TODO Define what a general linear model is "A family of classifiers"-Francois >
 
-In a general linear model, we try to find a linear combination of the data *x<sup>T</sup>y* so that the sign of *x<sup>T</sup>y* tells us about the outcome *y*: *y=[x<sup>T</sup>y+𝜀>0]*
+In a general linear model, we try to find a linear combination of the data *x<sup>T</sup>w* so that the sign of *x<sup>T</sup>w* tells us about the outcome *y*: *y=[x<sup>T</sup>w+𝜀>0]*
 
-The quantity *x<sup>T</sup>y*, which is a scalar value, is called the **Risk Score**.
+The quantity *x<sup>T</sup>w*, which is a scalar value, is called the **Risk Score**.
 
 In logistic regression the error, *𝜀*, is assumed to follow a logistic distribution and the risk score is called the **logit**.
 
