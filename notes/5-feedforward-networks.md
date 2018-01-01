@@ -49,6 +49,8 @@ Back propagation has a worst case time complexity of *O(number_of_units<sup>2</s
 
 **Vanishing Gradients** is a difficulty with back propagation that arises from the gradient of a unit in the network being near zero.
 
+ResNets & LSTM try to mitigate the problem of the Vanishing Gradient.
+
 **Mini-Batch Gradient Descent** is a gradient descent algorithm where the gradient is computed over *batches* of the training data. So the gradient used in the descent algorithm is only averaged over a batch size of *n* observations.
 
 **Stochastic Gradient Descent** (SGD) is mini-batch gradient descent where the batch size is 1.
