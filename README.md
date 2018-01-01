@@ -4,6 +4,11 @@ Resources for this module can be found [here](https://github.com/frcs/EE4C16).*
 # EE4C16
 Study material I have put together for the module EE4C16 Machine Learning, in Trinity College Dublin.
 
+Before looking at anything else. You can gain a **great** understanding of deep learning by just watching these videos:  
+1. [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+2. [How Deep Neural Networks work](https://www.youtube.com/watch?v=ILsA4nyG7I0&t=21s)
+3. [Recurrent Neural Networks & LSTMs (Long Short Term Memory)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+
 ## Notes
 Below is a list (work in progress) of the notes I have put together for each topic in the EE4C16 module:
 * [Module Overview](https://github.com/nating/EE4C16/blob/master/notes/0-module-overview.md)
