@@ -43,4 +43,6 @@ A GAN's architecture is made up of:
 * A **Generator Network** which is responsible for generating fake data.
 * A **Discriminator Network** which is responsible for detecting whether data is fake or real.
 
+<img src="./assets/gan-diagram.png" width="200"/>
+
 *"Training GANs is difficult, but the benefits are spectacular."*
