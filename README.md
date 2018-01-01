@@ -18,8 +18,7 @@ Below is a list (work in progress) of the notes I have put together for each top
 * [Evaluating Classifier Performance](https://github.com/nating/EE4C16/blob/master/notes/4-evaluating-classifier-performance.md)
 * [Feedforward Networks](https://github.com/nating/EE4C16/blob/master/notes/5-feedforward-networks.md)
 * [Convolutional Neural Networks](https://github.com/nating/EE4C16/blob/master/notes/6-convolutional-neural-networks.md)
-* Autoencoders
-* Recurrent Neural Networks
+* [Advances in Network Architectures](https://github.com/nating/EE4C16/blob/master/notes/7-advances-in-network-architectures.md)
 
 # Labs
 Here are useful resources for the EE4C16 labs:
