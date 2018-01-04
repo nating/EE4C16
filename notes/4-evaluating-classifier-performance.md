@@ -14,7 +14,7 @@ A **Confusion Matrix** is a table of the number of false positives, false negati
 
 #### Metrics for Classifier performance
 
-**Recall** (or *sensitivity* or *true positive rate*) is the probability that a predicted positive is correct:  
+**Recall** (or *sensitivity* or *true positive rate*) is the probability that an actual positive was correctly predicted:  
 <img src="https://github.com/nating/EE4C16/blob/master/assets/notes-images/recall-expression.png" width="400"/>
 
 **Precision** is the probability that a positive prediction is indeed positive:  
